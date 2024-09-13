@@ -1,0 +1,3 @@
+Utilizando todos os conhecimentos apresentados no decorrer da disciplina, utilize o dataset Quantum Finance para manipular os dados que futuramente serão utilizados por um modelo de Machine Learning para realizar predições a respeito do Score.
+
+O resultado da entrega deverá ser um arquivo python com toda a manipulação de dados realizada. O arquivo python deverá conter comentários para facilitar o entendimento no código, de preferência, o arquivo poderá ser entregue em formato .ipynb (Jupyter Notebook).
